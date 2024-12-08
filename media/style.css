@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+}
+footer{
+    background-color: rgb(5, 5, 109);
+} 
+#icon{
+    padding: 60px;
+    padding-bottom: 8px;
+    font-size: large;
+}
